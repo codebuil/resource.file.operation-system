@@ -1,2 +1,3 @@
-# basic.compiler
-https://play.google.com/store/apps/details?id=com.krazeapps.basicprogrammingcompiler
+# resource.file.operation.system
+
+load a resource file from a list file
